@@ -1,0 +1,41 @@
+customer_id,name,email,country,signup_date,segment
+C001,Customer 1,customer1@example.com,DE,2025-09-01,regular
+C002,Customer 2,customer2@example.com,ES,2025-09-06,student
+C003,Customer 3,customer3@example.com,Spain,2025-09-11,vip
+C004,Customer 4,customer4@example.com,FR,2025-09-16,regular
+ C005 ,Customer 5,customer5@example.com,ES,2025-09-21,student
+C006,Customer 6,customer6@example.com,IT,2025-09-26,student
+C007,Customer 7,customer7@example.com,DE,2025-10-01,regular
+C008,Customer 8,customer8@example.com,DE,2025-10-06,regular
+C009,Customer 9,customer9@example.com,ES,2025-10-11,vip
+C010,Customer 10,customer10@example.com,ES,2025-10-16,regular
+C011,Customer 11,customer11@example.com,ES,2025-10-21,regular
+C012,Customer 12,customer12@example.com,IT,2025-10-26,regular
+C013,Customer 13,customer13@example.com,FR,2025-10-31,vip
+C014,Customer 14,customer14@example.com,DE,2025-11-05,vip
+C015,Customer 15,customer15@example.com,ES,2025-11-10,VIP
+C016,Customer 16,customer16@example.com,ES,2025-11-15,vip
+C017,Customer 17,customer17@example.com,FR,2025-11-20,regular
+ C018 ,Customer 18,customer18@example.com,ES,2025-11-25,regular
+C019,Customer 19,customer19@example.com,DE,2025-11-30,regular
+C020,Customer 20,customer20@example.com,FR,2025-12-05,regular
+C021,Customer 21,customer21@example.com,DE,2025-12-10,vip
+C022,Customer 22,customer22@example.com,ES,2025-12-15,regular
+C023,Customer 23,customer23@example.com,IT,2025-12-20,regular
+C024,Customer 24,customer24@example.com,DE,2025-12-25,vip
+C025,Customer 25,customer25@example.com,DE,2025-12-30,regular
+C026,Customer 26,customer26@example.com,ES,2026-01-04,Regular
+C027,Customer 27,customer27@example.com,ES,2026-01-09,regular
+C028,Customer 28,customer28@example.com,ES,2026-01-14,regular
+ C029 ,Customer 29,customer29@example.com,ES,2026-01-19,regular
+C030,Customer 30,customer30@example.com,FR,2026-01-24,regular
+C031,Customer 31,customer31@example.com,FR,2026-01-29,regular
+C032,Customer 32,customer32@example.com,IT,2026-02-03,regular
+C033,Customer 33,customer33@example.com,ES,2026-02-08,student
+C034,Customer 34,customer34@example.com,ES,2026-02-13,regular
+C035,Customer 35,customer35@example.com,ES,2026-02-18,regular
+C036,Customer 36,customer36@example.com,ES,2026-02-23,regular
+C037,Customer 37,customer37@example.com,ES,2026-02-28,regular
+C038,Customer 38,customer38@example.com,ES,2026-03-05,vip
+C039,Customer 39,customer39@example.com,ES,2026-03-10,regular
+C040,Customer 40,customer40@example.com,FR,2026-03-15,vip

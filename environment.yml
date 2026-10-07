@@ -1,0 +1,11 @@
+name: pds
+
+dependencies:
+  - python=3.12
+  - pip
+  - setuptools
+  - pandas
+  - pytest
+  - ipykernel
+  - pyarrow
+  - plotly
