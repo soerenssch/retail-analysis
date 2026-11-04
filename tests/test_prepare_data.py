@@ -23,3 +23,11 @@ def test_normalize_ids_works_in_a_small_dataframe():
     orders["customer_id"] = normalize_ids(orders["customer_id"])
 
     assert orders["customer_id"].tolist() == ["C001", "C002", "C003"]
+
+
+def test_normalize_ids_keeps_canonical_id():
+    ids = pd.Series(["C004"])
+
+    result = normalize_ids(ids)
+
+    assert result.tolist() == ["C004"]
