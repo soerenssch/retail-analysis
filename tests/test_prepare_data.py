@@ -27,7 +27,6 @@ def test_normalize_ids_works_in_a_small_dataframe():
 
 def test_normalize_ids_keeps_canonical_id():
     ids = pd.Series(["C004"])
-
     result = normalize_ids(ids)
-
     assert result.tolist() == ["C004"]
+    #Edited test_normalize_ids_keeps_canonical_id
