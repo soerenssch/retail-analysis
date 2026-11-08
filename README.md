@@ -1,4 +1,4 @@
-# retail-analysis
+# retail-project
 PDS session 3
 hello v2
 another change
